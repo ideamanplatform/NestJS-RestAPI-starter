@@ -17,11 +17,11 @@
     "webpack": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "@nestjs/common": "^5.4.0",
+    "@nestjs/common": "^7.5.0",
     "@nestjs/core": "^5.4.0",
     "@nestjs/mongoose": "^5.2.2",
     "@nestjs/passport": "^5.1.0",
-    "@nestjs/swagger": "^2.5.1",
+    "@nestjs/swagger": "^3.0.1",
     "automapper-ts": "^1.9.0",
     "bcryptjs": "^2.4.3",
     "config": "^2.0.1",
